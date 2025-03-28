@@ -1,16 +1,17 @@
-## Hello, World! 👋
+# Anuj Kumar Gautam
 
-<!--
-**createwithanuj/createwithanuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
+I'm a full-stack developer, building web applications with React, Node.js, and Express. Still learning and growing every day.
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript, React, Node.js, Express
+- RESTful APIs, JSON Server, Axios
+- MongoDB, MySQL
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **Phonebook App:** A simple contact management app with CRUD functionality using React and JSON Server.
+
+## Let's Connect
+Feel free to reach out via GitHub or LinkedIn!
+
