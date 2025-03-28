@@ -5,7 +5,7 @@ I'm a full-stack developer, building web applications with React, Node.js, and E
 
 ## Skills
 - JavaScript, React, Node.js, Express
-- RESTful APIs, JSON Server, Axios
+- RESTful APIs, Axios
 - MongoDB, MySQL
 - HTML, CSS
 
