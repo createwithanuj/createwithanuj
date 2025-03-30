@@ -1,5 +1,3 @@
-<h1 align="center">🕹️👾 Anuj Kumar Gautam 💾🚀</h1>
-
 <p align="center">
   <img src="https://i.gifer.com/S0S.gif" alt="jim carrey" width="500"/>
 </p>
