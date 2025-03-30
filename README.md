@@ -1,7 +1,7 @@
 <h1 align="center">🕹️👾 Anuj Kumar Gautam 💾🚀</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh5dG8ycTRsdWRkajlkN25xYTV0c2QxeWk5aGRjdHN5dmNuZ20zZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="code gif" width="500"/>
+  <img src="https://i.gifer.com/S0S.gif" alt="jim carrey" width="500"/>
 </p>
 
 <p align="justify">
