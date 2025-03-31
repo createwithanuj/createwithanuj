@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.gifer.com/S0S.gif" alt="jim carrey" width="500"/>
-</p>
-
 <p align="justify">
   Hi there! 👋 I'm Anuj, a full-stack developer focused on building clean, efficient, and scalable web applications.  
   I enjoy writing quality code and continuously improving my skills to keep up with the ever-evolving tech landscape.
